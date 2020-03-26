@@ -6,7 +6,7 @@ install: \
 vendor:
 	composer install
 
-run:
+run: install
 	cat sample.txt | php src/main.php 
 
 clean:
