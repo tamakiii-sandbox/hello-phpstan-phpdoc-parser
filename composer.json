@@ -1,0 +1,6 @@
+{
+    "name": "tamakiii-sandbox/hello-phpstan-phpdoc-parser",
+    "require": {
+        "phpstan/phpdoc-parser": "^0.4.3"
+    }
+}
